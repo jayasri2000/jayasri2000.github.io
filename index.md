@@ -1,6 +1,6 @@
 # Building the Front-End.
 
-### ![photo](https://github.com/jayasri2000/jayasri2000.github.io/blob/main/87520538_2764354973655822_5604317973452947456_n.jpg)
+
 
 By Jayasri Dey.
 
@@ -13,3 +13,9 @@ Well nowadays its not that you just surf the web through your desktop or laptop.
 
 ## Where to start?
 
+Just like while building a house you need to lay a foundation, this is no different. The road map to this is HTML->CSS->JAVASCRIPT(well atleast in my opinion). 
+
+![image](https://github.com/jayasri2000/jayasri2000.github.io/blob/main/images.png)
+
+#### 1. HTML: 
+Hyper Text Markup Language is the standard markup language for creating webpages. It describes the structure of a webpage and consists of a series of elements. It tells the browser, how to display its contents by labelling them as 'header' , 'paragraphs', 'footer' etc.
