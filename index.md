@@ -27,4 +27,22 @@ Cascading Style Sheets describes how html elements are to be displayed on screen
 #### 3. JAVASCRIPT:
 Being the most popular programming language, it is the language of the web. It sets the logic behind all the html pages that you make.
 
+# The Frameworks
+
+Frameworks are packages that contains standard pre-written code. They are really helpful because they provide you a base, to improvise with the final design. The following are the components that you can expect from a framework:
+1.Built-in web components like navigation bars, panels and various buttons and clickable links.
+2.Pre-defined font sizes and styles.
+3.Grid to ease on the website layout.
+
+#### Dos and Donts?
+
+While you can use them to save time to get started with the website, and having a pretested base that is compatible with most browsers , its important to know how you should NOT use them.
+Code reusability is really something we are living for and using frameworks for that purpose is fine, but treating them as a replacement of your skills is NO good. Remember, these frameworks are your assistants not your wheel chair.
+
+Some examples of frameworks are BOOTSTRAP, FOUNDATION, etc. However which framework to use to complement your work totally depends upon what your website needs.
+
+
+
+
+
 
