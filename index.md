@@ -52,5 +52,8 @@ After you have laid your foundation, now that you know about html, css, and java
 ## Build your first app.
 
 Reading blogs and knowing the road map is really helpful, but things dont get done until you do them. Build your first app, from scratch, improvise, design and be creative. You will be a front-end developer in no time. ALL THE BEST.
-
-📥 Lets connect at [Linked In](https://www.linkedin.com/in/jayasri-dey-55625918b/) ,[Facebook](https://www.facebook.com/Jayasri.dey6/) and [Instagram](https://www.instagram.com/_._a_whim_.away._/)  
+ 
+ 
+ #
+ <p align="center">
+📥 Lets connect at [Linked In](https://www.linkedin.com/in/jayasri-dey-55625918b/) ,[Facebook](https://www.facebook.com/Jayasri.dey6/) and [Instagram](https://www.instagram.com/_._a_whim_.away._/) </p> 
