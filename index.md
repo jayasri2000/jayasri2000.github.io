@@ -15,7 +15,7 @@ Well nowadays its not that you just surf the web through your desktop or laptop.
 
 Just like while building a house you need to lay a foundation, this is no different. The road map to this is HTML->CSS->JAVASCRIPT(well atleast in my opinion). 
 
-![image](https://github.com/jayasri2000/jayasri2000.github.io/blob/main/images.png)
+![img](https://github.com/jayasri2000/jayasri2000.github.io/issues/1#issue-938632301)
 
 #### 1. HTML: 
 Hyper Text Markup Language is the standard markup language for creating webpages. It describes the structure of a webpage and consists of a series of elements. It tells the browser, how to display its contents by labelling them as 'header' , 'paragraphs', 'footer' etc.
