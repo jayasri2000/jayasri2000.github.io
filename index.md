@@ -3,7 +3,7 @@
 
 
  ![me]({{ site.baseurl }}/circle-cropped%20(9)%20(2).png)  
- ## Jayasri Dey||Front-end developer
+ Jayasri Dey||Front-end developer
 
 
 ## What is Front-End?
