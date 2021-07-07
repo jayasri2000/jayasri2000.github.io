@@ -2,7 +2,7 @@
 
 
 
-![me]({{ site.baseurl }}/circle-cropped%20(9).png)By Jayasri Dey.
+## ![me]({{ site.baseurl }}/circle-cropped%20(9)%20(2).png)  By Jayasri Dey.
 
 
 ## What is Front-End?
