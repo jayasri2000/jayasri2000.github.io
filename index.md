@@ -15,7 +15,17 @@ Well nowadays its not that you just surf the web through your desktop or laptop.
 
 Just like while building a house you need to lay a foundation, this is no different. The road map to this is HTML->CSS->JAVASCRIPT(well atleast in my opinion). 
 
+<p align="center">
 ![Stats]({{ site.baseurl }}/images.png)
+</p>
 
 #### 1. HTML: 
 Hyper Text Markup Language is the standard markup language for creating webpages. It describes the structure of a webpage and consists of a series of elements. It tells the browser, how to display its contents by labelling them as 'header' , 'paragraphs', 'footer' etc.
+
+#### 2. CSS:
+Cascading Style Sheets describes how html elements are to be displayed on screen. It reduces a lot of work, as it can control the layout of multiple web pages at once. External style sheets are stored in css files.
+
+#### 3. JAVASCRIPT:
+Being the most popular programming language, it is the language of the web. It sets the logic behind all the html pages that you make.
+
+
